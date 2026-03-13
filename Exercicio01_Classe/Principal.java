@@ -6,8 +6,8 @@ package Exercicio01_Classe;
 public class Principal {
 
     public static void main(String[] args) {
-        System.out.println("Exercicio 01 - Classe criada (molde).");
-        System.out.println("Ainda nao existe nenhum aluno de verdade (nenhum objeto).");
+        System.out.println("Estou aprendendo java");
+        System.out.println("a classe aluno e ainda apenas um molde");
     }
 
 }
