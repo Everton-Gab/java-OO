@@ -16,6 +16,35 @@ public class Principal{
         System.out.println("a1: " + a1);
         System.out.println("a2: " + a2);
 
+        Aluno aluno1 = new Aluno();
+        Aluno aluno2 = new Aluno();
+        Aluno aluno3 = new Aluno();
+
+
+
+        System.out.println( "tres objetos foram criados");
+        
+        
+        aluno1.nome = "pedro";
+        aluno1.idade = 22;
+
+        aluno2.nome = "carlos";
+        aluno2.idade = 22;
+
+        aluno3.nome = "jaoa";
+        aluno3.idade = 22;
+
+        System.out.println(aluno1.nome);
+        System.out.println(aluno2.nome);
+        System.out.println(aluno3.nome);
+
+        System.out.println(aluno1.nome + " - " + aluno1.idade);
+        System.out.println(aluno2.nome + " - " + aluno2.idade);
+        System.out.println(aluno3.nome + " - " + aluno3.idade);
+
+        System.out.println(aluno1);
+        System .out.println(aluno2);
+        System .out.println(aluno3);
     }
 
 }

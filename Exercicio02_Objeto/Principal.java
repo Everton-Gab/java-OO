@@ -14,7 +14,28 @@ public class Principal {
         objetoAluno.nome = "Teste";
         objetoAluno.idade = 15;
         System.out.println("Objeto criado: " + objetoAluno);
+     
+        
+        Aluno objetoAluno2 = new Aluno();
 
+        System.out.println(objetoAluno2);
+
+        objetoAluno.nome = "carlos";
+        objetoAluno.idade = 20;
+
+        System.out.println(objetoAluno.nome);
+        System.out.println(objetoAluno.idade);
+
+        
+        objetoAluno2.nome = "pedro";
+        objetoAluno2.idade = 22;
+
+        System.out.println(objetoAluno2.nome);
+        System.out.println(objetoAluno2.idade);
+
+        System.out.println(objetoAluno);
+        System.out.println(objetoAluno2);
     }
 
+    
 }
