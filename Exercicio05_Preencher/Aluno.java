@@ -1,4 +1,4 @@
-package Exercicio05_Metodos;
+package Exercicio05_Preencher;
 
 public class Aluno {
 
