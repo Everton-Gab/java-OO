@@ -1,16 +1,16 @@
-package Exercicio05_Metodos;
+package Exercicio05_Preencher;
 
 public class Principal {
 
     public static void main(String[] args) {
 
-        // Atividade 1 — objeto inicial com dados preenchidos
-        Aluno aluno1 = new Aluno();
-        aluno1.nome = "Carlos";
-        aluno1.idade = 20;
-        aluno1.apresentar();
+        Aluno aluno = new Aluno();
 
-        // Atividade 2 em diante: adicione seu código abaixo
+        aluno.nome = "Joao Silva";
+        aluno.idade = 18;
+
+        System.out.println(aluno.nome);
+        System.out.println(aluno.idade);
 
     }
 
