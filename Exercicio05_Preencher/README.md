@@ -1,30 +1,54 @@
-# Exercício 05 — Preencher atributos com `.`
+# Exercício 05 — Preencher atributos
 
 ## Objetivo
 
-Aprender a **preencher** os atributos de um objeto depois de criá-lo, usando o operador `.`:
-
-- `aluno.nome = "Joao Silva";`
-- `aluno.idade = 18;`
+Aprender como **preencher os atributos** de um objeto após criá-lo com `new`, entender o que o operador `.` faz e a diferença entre um objeto recém-criado e um objeto com dados preenchidos.
 
 ## Arquivos
 
-- `Aluno.java`
-- `Principal.java`: cria o objeto, preenche atributos e imprime.
+- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` — cria um objeto e preenche seus atributos.
+- `Resposta_Exercicio_05.md` — suas respostas para as atividades.
 
-## O que fazer
+## Estrutura esperada ao final
 
-- Leia o enunciado em `Exercicio_05_Preencher.md`.
-- Rode o `Principal.java`.
-- Troque os valores (`nome`, `idade`) e rode de novo.
-- Responda no `Resposta_Exercicio_05.md` (ou no seu caderno) as perguntas do enunciado.
+```
+Exercicio05_Preencher/
+├── evidencias/
+├── Aluno.java
+├── Principal.java
+└── README.md
+```
 
 ## Como executar (Windows)
-
-Na raiz do projeto:
 
 ```bat
 javac Exercicio05_Preencher\Aluno.java Exercicio05_Preencher\Principal.java
 java Exercicio05_Preencher.Principal
 ```
 
+---
+
+## Atividades
+
+### Atividade 1 — Preenchendo o objeto
+
+**O que fazer:**
+
+1. Execute o `Principal.java` como está.
+2. Observe quais valores foram impressos para `aluno.nome` e `aluno.idade`.
+3. Altere os valores no código (mude o nome e a idade) e execute novamente.
+
+**O que entregar:** Copie e cole a saída antes e depois da alteração.
+
+---
+
+### Atividade 2 — Perguntas
+
+Responda com suas palavras:
+
+1. Em `aluno.nome = "Joao Silva";`, o que significa `aluno.nome`?
+2. O que acontece se você criar o objeto (`new Aluno()`) mas não preencher `nome` e `idade`?
+3. O que o operador `.` (ponto) permite fazer quando temos um objeto em uma variável?
+
+> Registre suas respostas no arquivo `Resposta_Exercicio_05.md`.
