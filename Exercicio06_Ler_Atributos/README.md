@@ -2,16 +2,12 @@
 
 ## Objetivo
 
-Praticar a leitura de atributos de um objeto:
-
-- Criar um objeto com `new`
-- Preencher atributos usando `.`
-- **Ler** os atributos e imprimir no console
+Praticar a **leitura** de atributos de um objeto e entender a diferença entre preencher e ler.
 
 ## Arquivos
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria um objeto, preenche e lê os atributos.
+- `Principal.java` — cria objetos, preenche e lê os atributos.
 - `Resposta_Exercicio_06.md` — suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
@@ -26,8 +22,6 @@ Exercicio06_Ler_Atributos/
 
 ## Como executar (Windows)
 
-Na raiz do projeto:
-
 ```bat
 javac Exercicio06_Ler_Atributos\Aluno.java Exercicio06_Ler_Atributos\Principal.java
 java Exercicio06_Ler_Atributos.Principal
@@ -41,15 +35,12 @@ java Exercicio06_Ler_Atributos.Principal
 
 **O que fazer:**
 
-1. Execute o arquivo `Principal.java` sem alterar nada.
-2. Observe a saída exibida no terminal.
+1. Execute o `Principal.java` sem alterar nada.
+2. Observe a saída no terminal.
 
-**O que entregar:**
-
-Copie e cole a saída do terminal.
+**O que entregar:** Copie e cole a saída do terminal.
 
 Saída esperada:
-
 ```
 Maria
 20
@@ -66,7 +57,7 @@ Maria
 
 **O que fazer:**
 
-No arquivo `Principal.java`, altere os valores atribuídos:
+Altere os valores atribuídos:
 
 ```java
 objetoAluno.nome = "Ana";
@@ -75,9 +66,7 @@ objetoAluno.idade = 17;
 
 Execute novamente.
 
-**O que entregar:**
-
-Copie e cole a nova saída.
+**O que entregar:** Copie e cole a nova saída.
 
 **O que responder:**
 
@@ -99,9 +88,7 @@ System.out.println("Idade: " + objetoAluno.idade);
 
 Execute novamente.
 
-**O que entregar:**
-
-Copie e cole o resultado exibido.
+**O que entregar:** Copie e cole o resultado.
 
 **O que responder:**
 
@@ -110,7 +97,7 @@ Copie e cole o resultado exibido.
 
 ---
 
-### Atividade 4 — Lendo antes de preencher (objeto recém-criado)
+### Atividade 4 — Lendo antes de preencher
 
 **O que fazer:**
 
@@ -133,13 +120,11 @@ System.out.println(aluno2.idade);
 
 Execute novamente.
 
-**O que entregar:**
-
-Copie e cole a saída completa.
+**O que entregar:** Copie e cole a saída completa.
 
 **O que responder:**
 
-- Quais valores aparecem inicialmente antes de preencher?
+- Quais valores aparecem antes de preencher?
 - Por que esses valores aparecem?
 
 ---
@@ -148,7 +133,7 @@ Copie e cole a saída completa.
 
 **O que fazer:**
 
-Leia os atributos dos dois objetos em sequência:
+Leia os dois objetos em sequência:
 
 ```java
 System.out.println(objetoAluno.nome);
@@ -159,9 +144,7 @@ System.out.println(aluno2.idade);
 
 Execute novamente.
 
-**O que entregar:**
-
-Copie e cole a saída.
+**O que entregar:** Copie e cole a saída.
 
 **O que responder:**
 
@@ -171,8 +154,6 @@ Copie e cole a saída.
 ---
 
 ### Atividade 6 — Explicação final
-
-Responda com suas palavras:
 
 1. O que é "ler um atributo" em Java?
 2. Qual a diferença entre preencher e ler?
