@@ -1,5 +1,4 @@
-package Exercicio02_Objeto;
-
+package Java_02_Objeto;
 public class Principal {
 
     public static void main(String[] args) {

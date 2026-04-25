@@ -1,4 +1,4 @@
-package Exercicio06_Ler_Atributos;
+package Java_06_Ler_Atributos;
 
 public class Principal {
 

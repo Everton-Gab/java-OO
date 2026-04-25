@@ -1,4 +1,4 @@
-# Exercício 09 — Encapsulamento
+# Java 09 — Encapsulamento
 
 ## Objetivo
 
@@ -19,7 +19,7 @@ Nos exercícios anteriores (01-08), seus atributos eram `public`:
 ```java
 public String nome;   // Qualquer um pode acessar/modificar
 public int idade;
-```
+```text
 
 Isso significa que você (ou outra pessoa) poderia fazer:
 
@@ -27,7 +27,7 @@ Isso significa que você (ou outra pessoa) poderia fazer:
 aluno.nome = "";              // Nome vazio? Permitido!
 aluno.idade = -50;            // Idade negativa? Permitido!
 aluno.idade = 999999999;      // Idade impossível? Permitido!
-```
+```text
 
 Com **encapsulamento**, você **protege** os dados:
 
@@ -38,7 +38,7 @@ private int idade;
 // Agora só posso mudar assim:
 aluno.setNome("João");   // Com validação!
 aluno.setIdade(18);      // Com validação!
-```
+```text
 
 ---
 
@@ -66,7 +66,7 @@ public String nome;
 
 // PRIVATE: Só a classe pode acessar (protegido)
 private String nome;
-```
+```text
 
 ### Getter (para LER dados)
 
@@ -78,7 +78,7 @@ public String getNome() {
 
 // Uso:
 String nomeLido = aluno.getNome();  // Consegue ler
-```
+```text
 
 ### Setter (para ESCREVER dados com validação)
 
@@ -95,7 +95,7 @@ public void setNome(String novoNome) {
 // Uso:
 aluno.setNome("João");     // Válido, funciona
 aluno.setNome("");         // Inválido, rejeitado
-```
+```text
 
 ---
 
@@ -114,7 +114,7 @@ Na classe `Aluno`, todos os atributos são `private`:
 ```java
 private String nome;
 private int idade;
-```
+```text
 
 Isso significa:
 
@@ -123,7 +123,7 @@ Isso significa:
 
 ## Atividade 3 — Perguntas
 
-Responda no `Resposta_Exercicio_09.md` (ou no seu caderno):
+Responda no `Resposta_Java_09_Encapsulamento.md` (ou no seu caderno):
 
 1. O que é encapsulamento?
 2. Qual é a diferença entre `public` e `private`?
@@ -139,6 +139,6 @@ Responda no `Resposta_Exercicio_09.md` (ou no seu caderno):
 Na raiz do projeto:
 
 ```bat
-javac Exercicio09_Encapsulamento\Aluno.java Exercicio09_Encapsulamento\Principal.java
-java Exercicio09_Encapsulamento.Principal
-```
+javac Java_09_Encapsulamento\Aluno.java Java_09_Encapsulamento\Principal.java
+java Java_09_Encapsulamento.Principal
+```text

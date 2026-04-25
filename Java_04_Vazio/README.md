@@ -1,4 +1,4 @@
-# Exercício 04 — Objeto "vazio" e valores padrão
+# Java 04 — Objeto "vazio" e valores padrão
 
 ## Objetivo
 
@@ -11,26 +11,26 @@ Entender que, ao nascer, um objeto tem **valores padrão** nos atributos:
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
 - `Principal.java` — cria um `Aluno` sem preencher nada e imprime os atributos.
-- `Resposta_Exercicio_04.md` — suas respostas para as atividades.
+- `Resposta_Java_04_Vazio.md` — suas respostas para as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio04_Vazio/
+```text
+Java_04_Vazio/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 Na raiz do projeto:
 
 ```bat
-javac Exercicio04_Vazio\Aluno.java Exercicio04_Vazio\Principal.java
-java Exercicio04_Vazio.Principal
-```
+javac Java_04_Vazio\Aluno.java Java_04_Vazio\Principal.java
+java Java_04_Vazio.Principal
+```text
 
 ---
 
@@ -66,7 +66,7 @@ aluno.idade = 17;
 System.out.println("Depois de preencher:");
 System.out.println("nome  = " + aluno.nome);
 System.out.println("idade = " + aluno.idade);
-```
+```text
 
 Execute novamente.
 
@@ -78,4 +78,4 @@ Copie e cole o novo resultado exibido no terminal.
 
 - O que muda quando você preenche `nome` e `idade` manualmente?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_04.md`.
+> Registre suas respostas no arquivo `Resposta_Java_04_Vazio.md`.

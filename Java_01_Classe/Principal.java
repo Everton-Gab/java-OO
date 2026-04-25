@@ -1,4 +1,4 @@
-package Exercicio01_Classe;
+package Java_01_Classe;
 
 // Esta classe existe só para permitir RODAR algo no VS Code.
 // Aqui ainda NÃO vamos criar objeto.
@@ -6,8 +6,8 @@ package Exercicio01_Classe;
 public class Principal {
 
     public static void main(String[] args) {
-        System.out.println("Estou aprendendo Java.");
-        System.out.println("A classe Aluno ainda e apenas um molde.");
+        System.out.println("Java 01 - Classe criada (molde).");
+        System.out.println("Ainda nao existe nenhum aluno de verdade.");
     }
 
 }

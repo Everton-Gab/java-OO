@@ -1,4 +1,4 @@
-# Exercício 02 — Objeto (instância)
+# Java 02 — Objeto (instância)
 
 ## Objetivo
 
@@ -8,26 +8,26 @@ Entender o que é um **objeto** e o papel da palavra `new` na criação de uma i
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
 - `Principal.java` — cria objetos com `new` e demonstra o uso de atributos.
-- `Resposta_Exercicio_02.md` — suas respostas para todas as atividades.
+- `Resposta_Java_02_Objeto.md` — suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio02_Objeto/
+```text
+Java_02_Objeto/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 Na raiz do projeto:
 
 ```bat
-javac Exercicio02_Objeto\Aluno.java Exercicio02_Objeto\Principal.java
-java Exercicio02_Objeto.Principal
-```
+javac Java_02_Objeto\Aluno.java Java_02_Objeto\Principal.java
+java Java_02_Objeto.Principal
+```text
 
 ---
 
@@ -46,10 +46,10 @@ Copie e cole a saída do terminal.
 
 Saída esperada:
 
-```
+```text
 Exercicio 02 - Objeto criado com sucesso.
 Esse objetoAluno é um Aluno real (instancia) criado a partir da classe Aluno.
-```
+```text
 
 **O que responder:**
 
@@ -67,13 +67,13 @@ No arquivo `Principal.java`, crie um segundo objeto:
 
 ```java
 Aluno objetoAluno2 = new Aluno();
-```
+```text
 
 Depois adicione:
 
 ```java
 System.out.println(objetoAluno2);
-```
+```text
 
 Execute novamente o programa.
 
@@ -103,7 +103,7 @@ objetoAluno.nome = "Carlos";
 objetoAluno.idade = 20;
 System.out.println(objetoAluno.nome);
 System.out.println(objetoAluno.idade);
-```
+```text
 
 Execute novamente.
 
@@ -127,7 +127,7 @@ Modifique o código para:
 ```java
 objetoAluno.nome = "Maria";
 objetoAluno.idade = 18;
-```
+```text
 
 Execute novamente.
 
@@ -153,7 +153,7 @@ objetoAluno2.nome = "Pedro";
 objetoAluno2.idade = 22;
 System.out.println(objetoAluno2.nome);
 System.out.println(objetoAluno2.idade);
-```
+```text
 
 Execute novamente.
 
@@ -177,7 +177,7 @@ Adicione:
 ```java
 System.out.println(objetoAluno);
 System.out.println(objetoAluno2);
-```
+```text
 
 Execute novamente.
 
@@ -187,10 +187,10 @@ Copie e cole o resultado.
 
 Exemplo esperado:
 
-```
-Exercicio02_Objeto.Aluno@4e25154f
-Exercicio02_Objeto.Aluno@70dea4e
-```
+```text
+Java_02_Objeto.Aluno@4e25154f
+Java_02_Objeto.Aluno@70dea4e
+```text
 
 **O que responder:**
 
@@ -209,4 +209,4 @@ Responda com suas palavras:
 4. O que são atributos?
 5. O que você aprendeu neste exercício?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_02.md`.
+> Registre suas respostas no arquivo `Resposta_Java_02_Objeto.md`.

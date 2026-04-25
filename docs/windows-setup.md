@@ -29,8 +29,8 @@ No seu Windows o PowerShell é 5.x, então **evite** usar `&&` em comandos.
 Use sempre em duas linhas:
 
 ```bat
-javac Exercicio04_Vazio\Aluno.java Exercicio04_Vazio\Principal.java
-java Exercicio04_Vazio.Principal
+javac Java_04_Vazio\Aluno.java Java_04_Vazio\Principal.java
+java Java_04_Vazio.Principal
 ```
 
 ### 3) PDF no Cursor

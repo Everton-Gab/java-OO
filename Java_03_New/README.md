@@ -1,4 +1,4 @@
-# Exercício 03 — A palavra `new` e múltiplos objetos
+# Java 03 — A palavra `new` e múltiplos objetos
 
 ## Objetivo
 
@@ -8,26 +8,26 @@ Perceber que `new` é o que **cria o objeto na memória** e que é possível cri
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
 - `Principal.java` — cria múltiplos objetos com `new`, preenche atributos e compara referências.
-- `Resposta_Exercicio_03.md` — suas respostas para todas as atividades.
+- `Resposta_Java_03_New.md` — suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio03_New/
+```text
+Java_03_New/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 Na raiz do projeto:
 
 ```bat
-javac Exercicio03_New\Aluno.java Exercicio03_New\Principal.java
-java Exercicio03_New.Principal
-```
+javac Java_03_New\Aluno.java Java_03_New\Principal.java
+java Java_03_New.Principal
+```text
 
 ---
 
@@ -46,10 +46,10 @@ Copie e cole a saída do terminal.
 
 Saída esperada:
 
-```
-Exercicio 03 - Criacao de multiplos objetos.
-Exercicio03_New.Aluno@XXXXXXXX
-```
+```text
+Java 03 - Criacao de multiplos objetos.
+Java_03_New.Aluno@XXXXXXXX
+```text
 
 > O código `@XXXXXXXX` muda a cada execução — é a representação da referência do objeto na memória.
 
@@ -71,7 +71,7 @@ Aluno aluno1 = new Aluno();
 Aluno aluno2 = new Aluno();
 Aluno aluno3 = new Aluno();
 System.out.println("Tres objetos foram criados.");
-```
+```text
 
 Execute novamente.
 
@@ -102,7 +102,7 @@ aluno3.idade = 22;
 System.out.println(aluno1.nome);
 System.out.println(aluno2.nome);
 System.out.println(aluno3.nome);
-```
+```text
 
 Execute novamente.
 
@@ -127,7 +127,7 @@ Adicione:
 System.out.println(aluno1.nome + " - " + aluno1.idade);
 System.out.println(aluno2.nome + " - " + aluno2.idade);
 System.out.println(aluno3.nome + " - " + aluno3.idade);
-```
+```text
 
 Execute novamente.
 
@@ -152,7 +152,7 @@ Adicione no código:
 System.out.println(aluno1);
 System.out.println(aluno2);
 System.out.println(aluno3);
-```
+```text
 
 Execute novamente.
 
@@ -162,11 +162,11 @@ Copie e cole o resultado exibido no terminal.
 
 Exemplo esperado:
 
-```
-Exercicio03_New.Aluno@5acf9800
-Exercicio03_New.Aluno@4617c264
-Exercicio03_New.Aluno@36baf30c
-```
+```text
+Java_03_New.Aluno@5acf9800
+Java_03_New.Aluno@4617c264
+Java_03_New.Aluno@36baf30c
+```text
 
 **O que responder:**
 
@@ -184,4 +184,4 @@ Responda com suas palavras:
 3. Qual é a relação entre classe e objeto?
 4. O que você aprendeu neste exercício?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_03.md`.
+> Registre suas respostas no arquivo `Resposta_Java_03_New.md`.

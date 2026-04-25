@@ -6,26 +6,24 @@ Conjunto de exercícios para suporte e prática no aprendizado de **Java** e **O
 
 ### Nível 1 — Fundação (Classe, Objeto, Atributos)
 
-- `Exercicio01_Classe/` — O que é uma classe (molde)
-- `Exercicio02_Objeto/` — O que é um objeto (instância)
-- `Exercicio03_New/` — Criar múltiplos objetos
-- `Exercicio04_Vazio/` — Valores padrão (defaults)
-- `Exercicio05_Preencher/` — Preenchendo atributos
-- `Exercicio06_Ler_Atributos/` — Lendo atributos
+- `Java_01_Classe/` — O que é uma classe (molde)
+- `Java_02_Objeto/` — O que é um objeto (instância)
+- `Java_03_New/` — Criar múltiplos objetos
+- `Java_04_Vazio/` — Valores padrão (defaults)
+- `Java_05_Preencher/` — Preenchendo atributos
+- `Java_06_Ler_Atributos/` — Lendo atributos
 
 ### Nível 2 — Métodos e Construtores
 
-- `Exercicio07_Construtores/` — Inicializar objetos no momento da criação
-- `Exercicio08_Metodos/` — Adicionar comportamento (ações) aos objetos
-- `Exercicio09_Encapsulamento/` — Proteger dados com `private` e `public`
+- `Java_07_Construtores/` — Inicializar objetos no momento da criação
+- `Java_08_Metodos/` — Adicionar comportamento (ações) aos objetos
+- `Java_09_Encapsulamento/` — Proteger dados com `private` e `public`
 
 Cada pasta geralmente possui:
 
 - `Aluno.java` — A classe
 - `Principal.java` — Arquivo executável (main) com exemplos
-- `README.md` — Objetivo e instruções
-- um enunciado (`Exercicio_XX_*.md`) — O que fazer
-- um arquivo de respostas (`Resposta_Exercicio_XX.md`) — Respostas esperadas e explicações
+- `README.md` — Objetivo e instruções e posteriormente edição com a resposta do aluno
 
 ## Roadmap de Aprendizado
 
@@ -57,18 +55,18 @@ Os arquivos usam `package`, então a forma mais simples é compilar e executar a
 Exemplo (Exercício 04):
 
 ```bat
-javac Exercicio04_Vazio\Aluno.java Exercicio04_Vazio\Principal.java
-java Exercicio04_Vazio.Principal
+javac Java_04_Vazio\Aluno.java Java_04_Vazio\Principal.java
+java Java_04_Vazio.Principal
 ```
 
 Observação: em **PowerShell antigo (5.x)** o operador `&&` pode não funcionar. Prefira rodar em duas linhas (como acima).
 
 ## Como responder os exercícios
 
-- Leia o enunciado `Exercicio_XX_*.md`.
+- Leia o enunciado `Java__XX_*.md`.
 - Rode o `Principal.java`.
 - Copie a saída do console (quando solicitado).
-- Responda as perguntas no `Resposta_Exercicio_XX.md` (ou no seu caderno).
+- Responda as perguntas no `Resposta_Java__XX.md` (ou no seu caderno).
 
 ## Fork: recebendo atualizações do repositório original (upstream)
 

@@ -1,4 +1,4 @@
-package Exercicio09_Encapsulamento;
+package Java_09_Encapsulamento;
 
 public class Principal {
 

@@ -1,4 +1,4 @@
-# Exercício 01 — Classe (o "molde")
+# Java 01 — Classe (o "molde")
 
 ## Objetivo
 
@@ -13,16 +13,17 @@ Entender o que é uma **classe** em Java e a relação entre:
 - `Aluno.java` — define a classe `Aluno` com atributos simples (`nome`, `idade`).
 - `Principal.java` — imprime mensagens para provar que o projeto compila e executa.
 - `Professor.java` — criado na Atividade 3 (novo molde).
-- `Resposta_Exercicio_01.md` — suas respostas para todas as atividades.
+- `Resposta_Java_01_Classe.md` — arquivo para registrar suas respostas.
 
 ## Estrutura esperada ao final
 
 ```
-Exercicio01_Classe/
+Java_01_Classe/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 ├── Professor.java
+├── Resposta_Java_01_Classe.md
 └── README.md
 ```
 
@@ -31,8 +32,8 @@ Exercicio01_Classe/
 Na raiz do projeto:
 
 ```bat
-javac Exercicio01_Classe\Aluno.java Exercicio01_Classe\Principal.java
-java Exercicio01_Classe.Principal
+javac Java_01_Classe\Aluno.java Java_01_Classe\Principal.java
+java Java_01_Classe.Principal
 ```
 
 ---
@@ -53,13 +54,11 @@ Copie e cole a saída exibida no terminal.
 Saída esperada:
 
 ```
-Exercicio 01 - Classe criada (molde).
+Java 01 - Classe criada (molde).
 Ainda nao existe nenhum aluno de verdade.
 ```
 
 **O que responder:**
-
-Explique com suas palavras:
 
 - O que é uma classe?
 - O que representa o arquivo `Aluno.java`?
@@ -96,10 +95,10 @@ Perceba que apenas a mensagem mudou, mas a estrutura do programa continua a mesm
 
 **O que fazer:**
 
-Crie um novo arquivo dentro da pasta `Exercicio01_Classe` chamado `Professor.java` com a seguinte estrutura:
+Crie um novo arquivo dentro da pasta `Java_01_Classe` chamado `Professor.java` com a seguinte estrutura:
 
 ```java
-package Exercicio01_Classe;
+package Java_01_Classe;
 
 public class Professor {
     public String nome;
@@ -167,7 +166,7 @@ Por:
 public String nome
 ```
 
-Tente executar ou compilar.
+Tente compilar.
 
 **O que deve acontecer:**
 
@@ -194,4 +193,4 @@ Responda com suas palavras:
 4. Por que `Aluno.java` não executa sozinho?
 5. O que você aprendeu neste exercício?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_01.md`.
+> Registre suas respostas no arquivo `Resposta_Java_01_Classe.md`.

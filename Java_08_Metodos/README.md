@@ -1,4 +1,4 @@
-# Exercício 08 — Métodos
+# Java 08 — Métodos
 
 ## Objetivo
 
@@ -27,7 +27,7 @@ aluno.nome = "João";
 // Comportamento (métodos):
 aluno.apresentar();           // Faz algo
 int ano = aluno.calcularAnoNascimento();  // Faz algo E retorna um resultado
-```
+```text
 
 ---
 
@@ -54,7 +54,7 @@ public void apresentar() {
 
 // Chamado assim:
 aluno.apresentar();  // Executa e pronto (não devolve nada)
-```
+```text
 
 ### 2. Método VOID (com parâmetro, sem retorno)
 ```java
@@ -64,7 +64,7 @@ public void fazer(int nota) {
 
 // Chamado assim:
 aluno.fazer(85);  // Passa o parâmetro, executa e pronto
-```
+```text
 
 ### 3. Método com RETORNO (sem parâmetro)
 ```java
@@ -76,7 +76,7 @@ public int calcularAnoNascimento() {
 
 // Chamado assim:
 int ano = aluno.calcularAnoNascimento();  // Recebe o resultado em 'ano'
-```
+```text
 
 ### 4. Método com RETORNO (com parâmetro)
 ```java
@@ -87,7 +87,7 @@ public int multiplicarIdade(int multiplicador) {
 
 // Chamado assim:
 int resultado = aluno.multiplicarIdade(2);  // Passa parâmetro, recebe resultado
-```
+```text
 
 ---
 
@@ -104,7 +104,7 @@ int resultado = aluno.multiplicarIdade(2);  // Passa parâmetro, recebe resultad
 
 ## Atividade 3 — Perguntas
 
-Responda no `Resposta_Exercicio_08.md` (ou no seu caderno):
+Responda no `Resposta_Java_08_Metodos.md` (ou no seu caderno):
 
 1. O que é um método?
 2. Qual é a diferença entre `void` e um método com retorno?
@@ -120,6 +120,6 @@ Responda no `Resposta_Exercicio_08.md` (ou no seu caderno):
 Na raiz do projeto:
 
 ```bat
-javac Exercicio08_Metodos\Aluno.java Exercicio08_Metodos\Principal.java
-java Exercicio08_Metodos.Principal
-```
+javac Java_08_Metodos\Aluno.java Java_08_Metodos\Principal.java
+java Java_08_Metodos.Principal
+```text

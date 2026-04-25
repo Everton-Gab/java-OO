@@ -1,4 +1,4 @@
-# Exercício 07 — Construtores
+# Java 07 — Construtores
 
 ## Objetivo
 
@@ -20,39 +20,39 @@ Nos exercícios anteriores você criava objetos vazios e preenchia depois:
 Aluno aluno = new Aluno();
 aluno.nome = "João";
 aluno.idade = 18;
-```
+```text
 
 Com construtores, você faz tudo de uma vez:
 
 ```java
 // Jeito novo (Ex. 07)
 Aluno aluno = new Aluno("João", 18);
-```
+```text
 
 ## Arquivos
 
 - `Aluno.java` — define a classe com **dois construtores**: vazio e com parâmetros.
 - `Principal.java` — demonstra os 4 jeitos diferentes de criar e preencher um objeto.
-- `Resposta_Exercicio_07.md` — suas respostas para todas as atividades.
+- `Resposta_Java_07_Construtores.md` — suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio07_Construtores/
+```text
+Java_07_Construtores/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 Na raiz do projeto:
 
 ```bat
-javac Exercicio07_Construtores\Aluno.java Exercicio07_Construtores\Principal.java
-java Exercicio07_Construtores.Principal
-```
+javac Java_07_Construtores\Aluno.java Java_07_Construtores\Principal.java
+java Java_07_Construtores.Principal
+```text
 
 ---
 
@@ -85,14 +85,14 @@ public Aluno(String nome, int idade) {
     this.nome = nome;
     this.idade = idade;
 }
-```
+```text
 
 Um construtor é um **método especial** chamado automaticamente quando você usa `new`. Toda vez que você escreve `new`, um construtor é invocado:
 
 ```java
 new Aluno()               // chama o construtor vazio
 new Aluno("João", 18)    // chama o construtor com parâmetros
-```
+```text
 
 **O que observar:** leia os comentários no `Aluno.java` e entenda o papel de cada construtor antes de continuar.
 
@@ -117,7 +117,7 @@ Observe a linha dentro do construtor parametrizado:
 
 ```java
 this.nome = nome;
-```
+```text
 
 - `this.nome` — é o **atributo** do objeto
 - `nome` — é o **parâmetro** recebido no construtor
@@ -137,7 +137,7 @@ public Aluno(String nome, int idade) {
     this.nome = nome;
     this.idade = idade;
 }
-```
+```text
 
 **O que observar:** identifique todas as ocorrências de `this` no `Aluno.java` e explique o que cada uma faz.
 
@@ -176,4 +176,4 @@ Responda:
 2. Se precisasse criar 1000 alunos, qual seria mais prático?
 3. É possível ter os dois construtores na mesma classe? Explique.
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_07.md`.
+> Registre suas respostas no arquivo `Resposta_Java_07_Construtores.md`.

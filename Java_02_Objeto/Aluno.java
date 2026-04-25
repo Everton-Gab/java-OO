@@ -1,4 +1,4 @@
-package Exercicio02_Objeto;
+package Java_02_Objeto;
 
 // A classe continua sendo o molde.
 public class Aluno {

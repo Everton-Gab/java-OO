@@ -1,8 +1,8 @@
-package Exercicio01_Classe;
+package Java_01_Classe;
 
 public class Aluno {
-    
-public String nome;
-public String disciplina;
+
+    public String nome;
+    public int idade;
 
 }

@@ -1,4 +1,4 @@
-package Exercicio04_Vazio;
+package Java_04_Vazio;
 
 public class Principal {
 

@@ -178,7 +178,7 @@ Responda:
 
 > Registre suas respostas no arquivo `Resposta_Exercicio_07.md`.
 
-<!-- package Exercicio07_Construtores;
+<!-- Java_07_Construtores;
 
 public class Principal {
 

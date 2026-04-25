@@ -1,8 +1,8 @@
-package Exercicio01_Classe; 
- 
-public class Professor { 
- 
-   public String nome; 
-   public String disciplina; 
- 
+package Java_01_Classe;
+
+public class Professor {
+
+    public String nome;
+    public String disciplina;
+
 }

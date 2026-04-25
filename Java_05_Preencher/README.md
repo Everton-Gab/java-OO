@@ -1,4 +1,4 @@
-# Exercício 05 — Preencher atributos
+# Java 05 — Preencher atributos
 
 ## Objetivo
 
@@ -8,24 +8,24 @@ Aprender como **preencher os atributos** de um objeto após criá-lo com `new`, 
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
 - `Principal.java` — cria um objeto e preenche seus atributos.
-- `Resposta_Exercicio_05.md` — suas respostas para as atividades.
+- `Resposta_Java_05_Preencher.md` — suas respostas para as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio05_Preencher/
+```text
+Java_05_Preencher/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 ```bat
-javac Exercicio05_Preencher\Aluno.java Exercicio05_Preencher\Principal.java
-java Exercicio05_Preencher.Principal
-```
+javac Java_05_Preencher\Aluno.java Java_05_Preencher\Principal.java
+java Java_05_Preencher.Principal
+```text
 
 ---
 
@@ -51,4 +51,4 @@ Responda com suas palavras:
 2. O que acontece se você criar o objeto (`new Aluno()`) mas não preencher `nome` e `idade`?
 3. O que o operador `.` (ponto) permite fazer quando temos um objeto em uma variável?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_05.md`.
+> Registre suas respostas no arquivo `Resposta_Java_05_Preencher.md`.

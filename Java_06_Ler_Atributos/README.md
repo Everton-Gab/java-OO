@@ -1,4 +1,4 @@
-# Exercício 06 — Ler atributos
+# Java 06 — Ler atributos
 
 ## Objetivo
 
@@ -8,24 +8,24 @@ Praticar a **leitura** de atributos de um objeto e entender a diferença entre p
 
 - `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
 - `Principal.java` — cria objetos, preenche e lê os atributos.
-- `Resposta_Exercicio_06.md` — suas respostas para todas as atividades.
+- `Resposta_Java_06_Ler_Atributos.md` — suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
-```
-Exercicio06_Ler_Atributos/
+```text
+Java_06_Ler_Atributos/
 ├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 └── README.md
-```
+```text
 
 ## Como executar (Windows)
 
 ```bat
-javac Exercicio06_Ler_Atributos\Aluno.java Exercicio06_Ler_Atributos\Principal.java
-java Exercicio06_Ler_Atributos.Principal
-```
+javac Java_06_Ler_Atributos\Aluno.java Java_06_Ler_Atributos\Principal.java
+java Java_06_Ler_Atributos.Principal
+```text
 
 ---
 
@@ -41,10 +41,10 @@ java Exercicio06_Ler_Atributos.Principal
 **O que entregar:** Copie e cole a saída do terminal.
 
 Saída esperada:
-```
+```text
 Maria
 20
-```
+```text
 
 **O que responder:**
 
@@ -62,7 +62,7 @@ Altere os valores atribuídos:
 ```java
 objetoAluno.nome = "Ana";
 objetoAluno.idade = 17;
-```
+```text
 
 Execute novamente.
 
@@ -84,7 +84,7 @@ Altere a impressão para mostrar em forma de frase:
 ```java
 System.out.println("Aluno: " + objetoAluno.nome);
 System.out.println("Idade: " + objetoAluno.idade);
-```
+```text
 
 Execute novamente.
 
@@ -107,7 +107,7 @@ Crie outro objeto e leia antes de preencher:
 Aluno aluno2 = new Aluno();
 System.out.println(aluno2.nome);
 System.out.println(aluno2.idade);
-```
+```text
 
 Depois preencha e leia novamente:
 
@@ -116,7 +116,7 @@ aluno2.nome = "Lucas";
 aluno2.idade = 21;
 System.out.println(aluno2.nome);
 System.out.println(aluno2.idade);
-```
+```text
 
 Execute novamente.
 
@@ -140,7 +140,7 @@ System.out.println(objetoAluno.nome);
 System.out.println(objetoAluno.idade);
 System.out.println(aluno2.nome);
 System.out.println(aluno2.idade);
-```
+```text
 
 Execute novamente.
 
@@ -160,4 +160,4 @@ Execute novamente.
 3. O que significa acessar `objeto.atributo`?
 4. O que você aprendeu neste exercício?
 
-> Registre suas respostas no arquivo `Resposta_Exercicio_06.md`.
+> Registre suas respostas no arquivo `Resposta_Java_06_Ler_Atributos.md`.
