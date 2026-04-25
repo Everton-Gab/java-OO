@@ -1,8 +1,8 @@
-# Respostas — Java 01 (Classe)
+# Respostas - Java 01 (Classe)
 
 ---
 
-## Atividade 1 — Executando o código
+## Atividade 1 - Executando o código
 
 **Saída obtida no terminal:**
 
@@ -24,7 +24,7 @@ R.
 
 ---
 
-## Atividade 2 — Alterando a mensagem
+## Atividade 2 - Alterando a mensagem
 
 **Nova saída obtida no terminal:**
 
@@ -38,11 +38,11 @@ R.
 
 ---
 
-## Atividade 3 — Criando uma nova classe
+## Atividade 3 - Criando uma nova classe
 
 **Código criado (`Professor.java`):**
 
-```text
+```java
 (cole aqui o código criado)
 ```
 
@@ -56,7 +56,7 @@ R.
 
 ---
 
-## Atividade 4 — Adicionando um atributo
+## Atividade 4 - Adicionando um atributo
 
 **Nova versão do `Aluno.java`:**
 
@@ -74,7 +74,7 @@ R.
 
 ---
 
-## Atividade 5 — Criando erro proposital
+## Atividade 5 - Criando erro proposital
 
 **Mensagem de erro obtida:**
 
@@ -92,7 +92,7 @@ R.
 
 ---
 
-## Atividade 6 — Explicação final
+## Atividade 6 - Explicação final
 
 **1. O que é uma classe?**
 

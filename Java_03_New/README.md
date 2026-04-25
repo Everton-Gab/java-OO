@@ -1,4 +1,4 @@
-# Java 03 — A palavra `new` e múltiplos objetos
+# Java 03 - A palavra `new` e múltiplos objetos
 
 ## Objetivo
 
@@ -6,9 +6,9 @@ Perceber que `new` é o que **cria o objeto na memória** e que é possível cri
 
 ## Arquivos
 
-- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria múltiplos objetos com `new`, preenche atributos e compara referências.
-- `Resposta_Java_03_New.md` — suas respostas para todas as atividades.
+- `Aluno.java` - a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` - cria múltiplos objetos com `new`, preenche atributos e compara referências.
+- `Resposta_Java_03_New.md` - suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
@@ -33,7 +33,7 @@ java Java_03_New.Principal
 
 ## Atividades
 
-### Atividade 1 — Criando o primeiro objeto
+### Atividade 1 - Criando o primeiro objeto
 
 **O que fazer:**
 
@@ -51,7 +51,7 @@ Java 03 - Criacao de multiplos objetos.
 Java_03_New.Aluno@XXXXXXXX
 ```text
 
-> O código `@XXXXXXXX` muda a cada execução — é a representação da referência do objeto na memória.
+> O código `@XXXXXXXX` muda a cada execução - é a representação da referência do objeto na memória.
 
 **O que responder:**
 
@@ -60,7 +60,7 @@ Java_03_New.Aluno@XXXXXXXX
 
 ---
 
-### Atividade 2 — Criando vários objetos
+### Atividade 2 - Criando vários objetos
 
 **O que fazer:**
 
@@ -86,7 +86,7 @@ Copie e cole o resultado exibido no terminal.
 
 ---
 
-### Atividade 3 — Preenchendo os dados dos objetos
+### Atividade 3 - Preenchendo os dados dos objetos
 
 **O que fazer:**
 
@@ -117,7 +117,7 @@ Copie e cole o resultado exibido no terminal.
 
 ---
 
-### Atividade 4 — Mostrando todos os dados
+### Atividade 4 - Mostrando todos os dados
 
 **O que fazer:**
 
@@ -142,7 +142,7 @@ Copie e cole o resultado exibido no terminal.
 
 ---
 
-### Atividade 5 — Observando as referências na memória
+### Atividade 5 - Observando as referências na memória
 
 **O que fazer:**
 
@@ -175,7 +175,7 @@ Java_03_New.Aluno@36baf30c
 
 ---
 
-### Atividade 6 — Explicação final
+### Atividade 6 - Explicação final
 
 Responda com suas palavras:
 

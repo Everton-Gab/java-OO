@@ -1,4 +1,4 @@
-# Exercício 09 — Encapsulamento
+# Exercício 09 - Encapsulamento
 
 ## Objetivo
 
@@ -116,7 +116,7 @@ aluno.setNome("");       // ❌ Inválido (vazio)
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 1. Execute o `Principal.java` como está.
 2. Observe a saída e veja:
@@ -127,7 +127,7 @@ aluno.setNome("");       // ❌ Inválido (vazio)
 
 ---
 
-## Atividade 2 — Comparando com exercícios anteriores
+## Atividade 2 - Comparando com exercícios anteriores
 
 ### Exercícios 01-08 (SEM encapsulamento):
 
@@ -163,7 +163,7 @@ aluno.setIdade(99999);     // Gigante? ❌ Rejeitado!
 
 ---
 
-## Atividade 3 — Entendendo a validação
+## Atividade 3 - Entendendo a validação
 
 Na classe `Aluno.java`, o setter `setNome()` valida:
 
@@ -195,7 +195,7 @@ public void setNome(String novoNome) {
 
 ---
 
-## Atividade 4 — Perguntas
+## Atividade 4 - Perguntas
 
 Responda:
 
@@ -218,7 +218,7 @@ Responda:
 
 ---
 
-## Atividade 5 — Criando seu próprio setter
+## Atividade 5 - Criando seu próprio setter
 
 Na classe `Aluno.java`, já existem setters para `nome` e `idade`.
 
@@ -239,7 +239,7 @@ Depois, na `Principal.java`, **teste o novo setter** com valores válidos e inv�
 
 ---
 
-## Atividade 6 — Modificando a validação
+## Atividade 6 - Modificando a validação
 
 O setter `setNome()` valida:
 
@@ -254,7 +254,7 @@ Modifique o código de `Aluno.java` e teste com um nome muito longo.
 
 ---
 
-## Atividade 7 — Reflexão final
+## Atividade 7 - Reflexão final
 
 Responda:
 

@@ -1,4 +1,4 @@
-# Exercício 06 — Ler atributos
+# Exercício 06 - Ler atributos
 
 ## Objetivo
 
@@ -21,13 +21,13 @@ Você deverá executar o `Principal.java`, observar a saída e responder as perg
 
 ---
 
-## Atividade 1 — Rodando o programa
+## Atividade 1 - Rodando o programa
 
 1. Execute o `Principal.java`.
 2. Observe a saída no console.
 3. Modifique `nome` e `idade` e execute novamente.
 
-## Atividade 2 — Perguntas
+## Atividade 2 - Perguntas
 
 Responda no `Resposta_Exercicio_06.md` (ou no seu caderno):
 

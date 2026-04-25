@@ -1,4 +1,4 @@
-# Exercício 04 — Vazio (valores padrão)
+# Exercício 04 - Vazio (valores padrão)
 
 ## Objetivo
 
@@ -21,14 +21,14 @@ Você deverá executar o `Principal.java`, observar a saída e responder às per
 
 ---
 
-## Atividade 1 — Rodando o programa
+## Atividade 1 - Rodando o programa
 
 1. Execute o `Principal.java`.
 2. Observe o que aparece no console para:
    - `aluno.nome` (tipo `String`)
    - `aluno.idade` (tipo `int`)
 
-## Atividade 2 — Perguntas
+## Atividade 2 - Perguntas
 
 Responda no `Resposta_Exercicio_04.md` (ou no seu caderno):
 

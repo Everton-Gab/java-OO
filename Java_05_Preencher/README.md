@@ -1,4 +1,4 @@
-# Java 05 — Preencher atributos
+# Java 05 - Preencher atributos
 
 ## Objetivo
 
@@ -6,9 +6,9 @@ Aprender como **preencher os atributos** de um objeto após criá-lo com `new`, 
 
 ## Arquivos
 
-- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria um objeto e preenche seus atributos.
-- `Resposta_Java_05_Preencher.md` — suas respostas para as atividades.
+- `Aluno.java` - a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` - cria um objeto e preenche seus atributos.
+- `Resposta_Java_05_Preencher.md` - suas respostas para as atividades.
 
 ## Estrutura esperada ao final
 
@@ -31,7 +31,7 @@ java Java_05_Preencher.Principal
 
 ## Atividades
 
-### Atividade 1 — Preenchendo o objeto
+### Atividade 1 - Preenchendo o objeto
 
 **O que fazer:**
 
@@ -43,7 +43,7 @@ java Java_05_Preencher.Principal
 
 ---
 
-### Atividade 2 — Perguntas
+### Atividade 2 - Perguntas
 
 Responda com suas palavras:
 

@@ -6,8 +6,8 @@ package Java_01_Classe;
 public class Principal {
 
     public static void main(String[] args) {
-        System.out.println("Java 01 - Classe criada (molde).");
-        System.out.println("Ainda nao existe nenhum aluno de verdade.");
+        System.out.println("Java 01 - Classe criada (molde). ");
+        System.out.println("Ainda não existe nenhum aluno de verdade.");
     }
 
 }

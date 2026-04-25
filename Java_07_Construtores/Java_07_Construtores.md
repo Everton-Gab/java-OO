@@ -1,4 +1,4 @@
-# Exercício 07 — Construtores
+# Exercício 07 - Construtores
 
 ## Objetivo
 
@@ -17,7 +17,7 @@ Você vai trabalhar com:
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 1. Execute o `Principal.java` como está.
 2. Observe a saída e note os **4 jeitos diferentes** mostrados.
@@ -25,7 +25,7 @@ Você vai trabalhar com:
 
 ---
 
-## Atividade 2 — Entendendo construtores
+## Atividade 2 - Entendendo construtores
 
 No arquivo `Aluno.java`, você vê:
 
@@ -55,7 +55,7 @@ new Aluno("João", 18)         // Chama o construtor com parâmetros
 
 ---
 
-## Atividade 3 — Comparando os jeitos
+## Atividade 3 - Comparando os jeitos
 
 Copie e complete a tabela:
 
@@ -68,7 +68,7 @@ Copie e complete a tabela:
 
 ---
 
-## Atividade 4 — Entendendo `this`
+## Atividade 4 - Entendendo `this`
 
 Na linha:
 
@@ -98,7 +98,7 @@ public Aluno(String nome, int idade) {
 
 ---
 
-## Atividade 5 — Perguntas
+## Atividade 5 - Perguntas
 
 Responda:
 
@@ -119,7 +119,7 @@ Responda:
 
 ---
 
-## Atividade 6 — Modificando o código
+## Atividade 6 - Modificando o código
 
 Abra `Principal.java` e **faça as mudanças** abaixo. Execute após cada mudança:
 
@@ -131,7 +131,7 @@ Abra `Principal.java` e **faça as mudanças** abaixo. Execute após cada mudan�
 
 ---
 
-## Atividade 7 — Reflexão final
+## Atividade 7 - Reflexão final
 
 Responda:
 

@@ -1,4 +1,4 @@
-# Java 02 — Objeto (instância)
+# Java 02 - Objeto (instância)
 
 ## Objetivo
 
@@ -6,9 +6,9 @@ Entender o que é um **objeto** e o papel da palavra `new` na criação de uma i
 
 ## Arquivos
 
-- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria objetos com `new` e demonstra o uso de atributos.
-- `Resposta_Java_02_Objeto.md` — suas respostas para todas as atividades.
+- `Aluno.java` - a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` - cria objetos com `new` e demonstra o uso de atributos.
+- `Resposta_Java_02_Objeto.md` - suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
@@ -33,7 +33,7 @@ java Java_02_Objeto.Principal
 
 ## Atividades
 
-### Atividade 1 — Executando o código original
+### Atividade 1 - Executando o código original
 
 **O que fazer:**
 
@@ -59,7 +59,7 @@ Esse objetoAluno é um Aluno real (instancia) criado a partir da classe Aluno.
 
 ---
 
-### Atividade 2 — Criando mais um objeto
+### Atividade 2 - Criando mais um objeto
 
 **O que fazer:**
 
@@ -92,7 +92,7 @@ Você verá dois objetos diferentes na memória.
 
 ---
 
-### Atividade 3 — Preenchendo atributos
+### Atividade 3 - Preenchendo atributos
 
 **O que fazer:**
 
@@ -118,7 +118,7 @@ Copie e cole o resultado exibido no terminal.
 
 ---
 
-### Atividade 4 — Alterando os valores
+### Atividade 4 - Alterando os valores
 
 **O que fazer:**
 
@@ -142,7 +142,7 @@ Copie e cole o novo resultado.
 
 ---
 
-### Atividade 5 — Criando outro aluno
+### Atividade 5 - Criando outro aluno
 
 **O que fazer:**
 
@@ -168,7 +168,7 @@ Copie e cole o resultado exibido.
 
 ---
 
-### Atividade 6 — Observando o objeto na memória
+### Atividade 6 - Observando o objeto na memória
 
 **O que fazer:**
 
@@ -199,7 +199,7 @@ Java_02_Objeto.Aluno@70dea4e
 
 ---
 
-### Atividade 7 — Explicação final
+### Atividade 7 - Explicação final
 
 Responda com suas palavras:
 

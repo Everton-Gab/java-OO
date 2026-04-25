@@ -1,8 +1,8 @@
-# Respostas — Java 08 — Métodos
+# Respostas - Java 08 - Métodos
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 **Saída obtida no terminal:**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Atividade 2 — Entendendo cada método
+## Atividade 2 - Entendendo cada método
 
 | # | Método | Imprime algo? | Retorna valor? | Recebe parâmetro? |
 |---|--------|--------------|----------------|-------------------|
@@ -25,11 +25,11 @@
 
 ---
 
-## Atividade 3 — Comparando tipos
+## Atividade 3 - Comparando tipos
 
 ---
 
-## Atividade 4 — Chamando métodos
+## Atividade 4 - Chamando métodos
 
 **O que significa o `.` (ponto) quando chamamos um método?**
 
@@ -37,7 +37,7 @@ R.
 
 ---
 
-## Atividade 5 — Perguntas
+## Atividade 5 - Perguntas
 
 **1. O que é um método em Java?**
 
@@ -69,7 +69,7 @@ R.
 
 ---
 
-## Atividade 6 — Modificando o código
+## Atividade 6 - Modificando o código
 
 **Saída obtida no terminal:**
 
@@ -79,7 +79,7 @@ R.
 
 ---
 
-## Atividade 7 — Criando seu próprio método
+## Atividade 7 - Criando seu próprio método
 
 **Saída obtida no terminal:**
 
@@ -89,7 +89,7 @@ R.
 
 ---
 
-## Atividade 8 — Reflexão final
+## Atividade 8 - Reflexão final
 
 **1. Um método pode ter múltiplos parâmetros?**
 

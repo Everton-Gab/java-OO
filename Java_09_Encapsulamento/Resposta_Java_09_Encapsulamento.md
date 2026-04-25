@@ -1,8 +1,8 @@
-# Respostas — Java 09 — Encapsulamento
+# Respostas - Java 09 - Encapsulamento
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 **Saída obtida no terminal:**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Atividade 2 — Comparando com exercícios anteriores
+## Atividade 2 - Comparando com exercícios anteriores
 
 **O que seria possível fazer SEM encapsulamento que agora é bloqueado?**
 
@@ -20,7 +20,7 @@ R.
 
 ---
 
-## Atividade 3 — Entendendo a validação
+## Atividade 3 - Entendendo a validação
 
 **Qual tentativa de modificar o nome foi aceita?**
 
@@ -36,7 +36,7 @@ R.
 
 ---
 
-## Atividade 4 — Perguntas
+## Atividade 4 - Perguntas
 
 **1. O que é encapsulamento?**
 
@@ -68,7 +68,7 @@ R.
 
 ---
 
-## Atividade 5 — Criando seu próprio setter
+## Atividade 5 - Criando seu próprio setter
 
 **Saída obtida no terminal:**
 
@@ -78,7 +78,7 @@ R.
 
 ---
 
-## Atividade 6 — Modificando a validação
+## Atividade 6 - Modificando a validação
 
 **Saída obtida no terminal:**
 
@@ -88,7 +88,7 @@ R.
 
 ---
 
-## Atividade 7 — Reflexão final
+## Atividade 7 - Reflexão final
 
 **1. Se todos os atributos fossem `public`, qual seria o problema?**
 

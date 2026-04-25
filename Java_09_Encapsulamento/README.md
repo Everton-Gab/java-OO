@@ -1,4 +1,4 @@
-# Java 09 — Encapsulamento
+# Java 09 - Encapsulamento
 
 ## Objetivo
 
@@ -99,7 +99,7 @@ aluno.setNome("");         // Inválido, rejeitado
 
 ---
 
-## Atividade 1 — Rodando o programa
+## Atividade 1 - Rodando o programa
 
 1. Execute o `Principal.java`.
 2. Observe como a validação funciona:
@@ -107,7 +107,7 @@ aluno.setNome("");         // Inválido, rejeitado
    - Valores inválidos são rejeitados com mensagem de erro
 3. Repare que os dados nunca ficam inválidos
 
-## Atividade 2 — Entendendo `private`
+## Atividade 2 - Entendendo `private`
 
 Na classe `Aluno`, todos os atributos são `private`:
 
@@ -121,7 +121,7 @@ Isso significa:
 - ❌ Você **não pode** fazer: `aluno.nome = "João";` (erro de compilação!)
 - ✅ Você **deve** fazer: `aluno.setNome("João");` (através do setter)
 
-## Atividade 3 — Perguntas
+## Atividade 3 - Perguntas
 
 Responda no `Resposta_Java_09_Encapsulamento.md` (ou no seu caderno):
 

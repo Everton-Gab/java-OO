@@ -1,4 +1,4 @@
-# Java 07 — Construtores
+# Java 07 - Construtores
 
 ## Objetivo
 
@@ -11,7 +11,7 @@ Neste exercício você vai aprender:
 - O que significa a palavra-chave `this`
 - Por que construtores são úteis (evitam esquecer de preencher atributos)
 
-## Contexto — por que aprender construtores?
+## Contexto - por que aprender construtores?
 
 Nos exercícios anteriores você criava objetos vazios e preenchia depois:
 
@@ -31,9 +31,9 @@ Aluno aluno = new Aluno("João", 18);
 
 ## Arquivos
 
-- `Aluno.java` — define a classe com **dois construtores**: vazio e com parâmetros.
-- `Principal.java` — demonstra os 4 jeitos diferentes de criar e preencher um objeto.
-- `Resposta_Java_07_Construtores.md` — suas respostas para todas as atividades.
+- `Aluno.java` - define a classe com **dois construtores**: vazio e com parâmetros.
+- `Principal.java` - demonstra os 4 jeitos diferentes de criar e preencher um objeto.
+- `Resposta_Java_07_Construtores.md` - suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
@@ -58,7 +58,7 @@ java Java_07_Construtores.Principal
 
 ## Atividades
 
-### Atividade 1 — Execute e observe
+### Atividade 1 - Execute e observe
 
 **O que fazer:**
 
@@ -72,13 +72,13 @@ Copie e cole a saída completa do terminal.
 
 ---
 
-### Atividade 2 — Entendendo construtores
+### Atividade 2 - Entendendo construtores
 
 No arquivo `Aluno.java`, você encontra dois construtores:
 
 ```java
 public Aluno() {
-    // Construtor vazio — não inicializa nada
+    // Construtor vazio - não inicializa nada
 }
 
 public Aluno(String nome, int idade) {
@@ -98,7 +98,7 @@ new Aluno("João", 18)    // chama o construtor com parâmetros
 
 ---
 
-### Atividade 3 — Comparando os jeitos
+### Atividade 3 - Comparando os jeitos
 
 Copie e complete a tabela no seu arquivo de respostas:
 
@@ -111,7 +111,7 @@ Copie e complete a tabela no seu arquivo de respostas:
 
 ---
 
-### Atividade 4 — Entendendo `this`
+### Atividade 4 - Entendendo `this`
 
 Observe a linha dentro do construtor parametrizado:
 
@@ -119,20 +119,20 @@ Observe a linha dentro do construtor parametrizado:
 this.nome = nome;
 ```text
 
-- `this.nome` — é o **atributo** do objeto
-- `nome` — é o **parâmetro** recebido no construtor
-- `this` — significa "**este objeto**"
+- `this.nome` - é o **atributo** do objeto
+- `nome` - é o **parâmetro** recebido no construtor
+- `this` - significa "**este objeto**"
 
 Sem `this`, o Java não conseguiria diferenciar o parâmetro do atributo:
 
 ```java
-// ERRADO — Java não sabe qual é qual:
+// ERRADO - Java não sabe qual é qual:
 public Aluno(String nome, int idade) {
     nome = nome;
     idade = idade;
 }
 
-// CORRETO — this deixa claro que é o atributo do objeto:
+// CORRETO - this deixa claro que é o atributo do objeto:
 public Aluno(String nome, int idade) {
     this.nome = nome;
     this.idade = idade;
@@ -143,7 +143,7 @@ public Aluno(String nome, int idade) {
 
 ---
 
-### Atividade 5 — Perguntas
+### Atividade 5 - Perguntas
 
 Responda com suas palavras:
 
@@ -156,7 +156,7 @@ Responda com suas palavras:
 
 ---
 
-### Atividade 6 — Modificando o código
+### Atividade 6 - Modificando o código
 
 Abra o `Principal.java` e faça as seguintes alterações. Execute após cada mudança:
 
@@ -168,7 +168,7 @@ Abra o `Principal.java` e faça as seguintes alterações. Execute após cada mu
 
 ---
 
-### Atividade 7 — Reflexão final
+### Atividade 7 - Reflexão final
 
 Responda:
 

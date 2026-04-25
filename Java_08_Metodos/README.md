@@ -1,4 +1,4 @@
-# Java 08 — Métodos
+# Java 08 - Métodos
 
 ## Objetivo
 
@@ -91,18 +91,18 @@ int resultado = aluno.multiplicarIdade(2);  // Passa parâmetro, recebe resultad
 
 ---
 
-## Atividade 1 — Rodando o programa
+## Atividade 1 - Rodando o programa
 
 1. Execute o `Principal.java`.
 2. Observe os **6 métodos diferentes** sendo usados.
 3. Veja que alguns métodos imprimem direto, outros devolvem valores.
 
-## Atividade 2 — Entendendo VOID vs RETORNO
+## Atividade 2 - Entendendo VOID vs RETORNO
 
 - **VOID**: Método faz algo (pode imprimir, modificar, etc) mas não devolve nada
 - **COM RETORNO**: Método calcula algo e devolve o resultado (você pode guardar em uma variável)
 
-## Atividade 3 — Perguntas
+## Atividade 3 - Perguntas
 
 Responda no `Resposta_Java_08_Metodos.md` (ou no seu caderno):
 

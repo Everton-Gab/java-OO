@@ -1,4 +1,4 @@
-# Exercício 05 — Preencher atributos
+# Exercício 05 - Preencher atributos
 
 ## Objetivo
 
@@ -21,13 +21,13 @@ Você deverá executar o `Principal.java`, observar a saída e responder as perg
 
 ---
 
-## Atividade 1 — Preenchendo o objeto
+## Atividade 1 - Preenchendo o objeto
 
 1. Execute o `Principal.java` como está.
 2. Observe quais valores foram impressos para `aluno.nome` e `aluno.idade`.
 3. Altere os valores preenchidos no código (mude o nome e a idade) e execute novamente.
 
-## Atividade 2 — Perguntas
+## Atividade 2 - Perguntas
 
 Responda no `Resposta_Exercicio_05.md` (ou no seu caderno):
 

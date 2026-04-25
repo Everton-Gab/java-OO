@@ -1,8 +1,8 @@
-# Respostas — Java 03 — A palavra `new` e múltiplos objetos
+# Respostas - Java 03 - A palavra `new` e múltiplos objetos
 
 ---
 
-## Atividade 1 — Criando o primeiro objeto
+## Atividade 1 - Criando o primeiro objeto
 
 **Saída obtida no terminal:**
 
@@ -20,7 +20,7 @@ R.
 
 ---
 
-## Atividade 2 — Criando vários objetos
+## Atividade 2 - Criando vários objetos
 
 **Saída obtida no terminal:**
 
@@ -38,7 +38,7 @@ R.
 
 ---
 
-## Atividade 3 — Preenchendo os dados dos objetos
+## Atividade 3 - Preenchendo os dados dos objetos
 
 **Saída obtida no terminal:**
 
@@ -56,7 +56,7 @@ R.
 
 ---
 
-## Atividade 4 — Mostrando todos os dados
+## Atividade 4 - Mostrando todos os dados
 
 **Saída obtida no terminal:**
 
@@ -74,7 +74,7 @@ R.
 
 ---
 
-## Atividade 5 — Observando as referências na memória
+## Atividade 5 - Observando as referências na memória
 
 **Saída obtida no terminal:**
 
@@ -92,7 +92,7 @@ R.
 
 ---
 
-## Atividade 6 — Explicação final
+## Atividade 6 - Explicação final
 
 **1. O que acontece quando criamos vários objetos da mesma classe?**
 

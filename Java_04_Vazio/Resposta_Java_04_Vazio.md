@@ -1,8 +1,8 @@
-# Respostas — Java 04 — Objeto "vazio" e valores padrão
+# Respostas - Java 04 - Objeto "vazio" e valores padrão
 
 ---
 
-## Atividade 1 — Rodando o programa
+## Atividade 1 - Rodando o programa
 
 **Saída obtida no terminal:**
 
@@ -20,7 +20,7 @@ R.
 
 ---
 
-## Atividade 2 — Preenchendo os atributos
+## Atividade 2 - Preenchendo os atributos
 
 **Saída obtida no terminal:**
 

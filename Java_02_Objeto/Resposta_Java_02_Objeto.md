@@ -1,8 +1,8 @@
-# Respostas — Java 02 — Objeto (instância)
+# Respostas - Java 02 - Objeto (instância)
 
 ---
 
-## Atividade 1 — Executando o código original
+## Atividade 1 - Executando o código original
 
 **Saída obtida no terminal:**
 
@@ -24,7 +24,7 @@ R.
 
 ---
 
-## Atividade 2 — Criando mais um objeto
+## Atividade 2 - Criando mais um objeto
 
 **Saída obtida no terminal:**
 
@@ -42,7 +42,7 @@ R.
 
 ---
 
-## Atividade 3 — Preenchendo atributos
+## Atividade 3 - Preenchendo atributos
 
 **Saída obtida no terminal:**
 
@@ -60,7 +60,7 @@ R.
 
 ---
 
-## Atividade 4 — Alterando os valores
+## Atividade 4 - Alterando os valores
 
 **Saída obtida no terminal:**
 
@@ -78,7 +78,7 @@ R.
 
 ---
 
-## Atividade 5 — Criando outro aluno
+## Atividade 5 - Criando outro aluno
 
 **Saída obtida no terminal:**
 
@@ -96,7 +96,7 @@ R.
 
 ---
 
-## Atividade 6 — Observando o objeto na memória
+## Atividade 6 - Observando o objeto na memória
 
 **Saída obtida no terminal:**
 
@@ -114,7 +114,7 @@ R.
 
 ---
 
-## Atividade 7 — Explicação final
+## Atividade 7 - Explicação final
 
 **1. O que é um objeto em Java?**
 

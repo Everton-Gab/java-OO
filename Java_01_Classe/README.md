@@ -1,4 +1,4 @@
-# Java 01 — Classe (o "molde")
+# Java 01 - Classe (o "molde")
 
 ## Objetivo
 
@@ -10,16 +10,15 @@ Entender o que é uma **classe** em Java e a relação entre:
 
 ## Arquivos
 
-- `Aluno.java` — define a classe `Aluno` com atributos simples (`nome`, `idade`).
-- `Principal.java` — imprime mensagens para provar que o projeto compila e executa.
-- `Professor.java` — criado na Atividade 3 (novo molde).
-- `Resposta_Java_01_Classe.md` — arquivo para registrar suas respostas.
+- `Aluno.java` - define a classe `Aluno` com atributos simples (`nome`, `idade`).
+- `Principal.java` - imprime mensagens para provar que o projeto compila e executa.
+- `Professor.java` - criado na Atividade 3 (novo molde).
+- `Resposta_Java_01_Classe.md` - arquivo para registrar suas respostas.
 
 ## Estrutura esperada ao final
 
-```
+```text
 Java_01_Classe/
-├── evidencias/
 ├── Aluno.java
 ├── Principal.java
 ├── Professor.java
@@ -40,7 +39,7 @@ java Java_01_Classe.Principal
 
 ## Atividades
 
-### Atividade 1 — Executando o código
+### Atividade 1 - Executando o código
 
 **O que fazer:**
 
@@ -53,9 +52,9 @@ Copie e cole a saída exibida no terminal.
 
 Saída esperada:
 
-```
+```text
 Java 01 - Classe criada (molde).
-Ainda nao existe nenhum aluno de verdade.
+Ainda não existe nenhum aluno de verdade.
 ```
 
 **O que responder:**
@@ -66,7 +65,7 @@ Ainda nao existe nenhum aluno de verdade.
 
 ---
 
-### Atividade 2 — Alterando a mensagem
+### Atividade 2 - Alterando a mensagem
 
 **O que fazer:**
 
@@ -76,7 +75,7 @@ Exemplo:
 
 ```java
 System.out.println("Estou aprendendo Java.");
-System.out.println("A classe Aluno ainda e apenas um molde.");
+System.out.println("A classe Aluno ainda é apenas um molde.");
 ```
 
 Execute novamente.
@@ -91,7 +90,7 @@ Perceba que apenas a mensagem mudou, mas a estrutura do programa continua a mesm
 
 ---
 
-### Atividade 3 — Criando uma nova classe
+### Atividade 3 - Criando uma nova classe
 
 **O que fazer:**
 
@@ -117,7 +116,7 @@ Copie e cole o código criado.
 
 ---
 
-### Atividade 4 — Adicionando um atributo
+### Atividade 4 - Adicionando um atributo
 
 **O que fazer:**
 
@@ -148,7 +147,7 @@ Copie e cole a nova versão da classe.
 
 ---
 
-### Atividade 5 — Criando erro proposital
+### Atividade 5 - Criando erro proposital
 
 **O que fazer:**
 
@@ -183,7 +182,7 @@ Copie e cole a mensagem de erro exibida pelo compilador. Depois corrija o erro n
 
 ---
 
-### Atividade 6 — Explicação final
+### Atividade 6 - Explicação final
 
 Responda com suas palavras:
 

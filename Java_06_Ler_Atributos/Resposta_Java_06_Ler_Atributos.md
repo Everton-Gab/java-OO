@@ -1,8 +1,8 @@
-# Respostas — Java 06 — Ler atributos
+# Respostas - Java 06 - Ler atributos
 
 ---
 
-## Atividade 1 — Executando o código base
+## Atividade 1 - Executando o código base
 
 **Saída obtida no terminal:**
 
@@ -20,7 +20,7 @@ R.
 
 ---
 
-## Atividade 2 — Alterando valores e lendo novamente
+## Atividade 2 - Alterando valores e lendo novamente
 
 **Saída obtida no terminal:**
 
@@ -38,7 +38,7 @@ R.
 
 ---
 
-## Atividade 3 — Lendo em forma de texto
+## Atividade 3 - Lendo em forma de texto
 
 **Saída obtida no terminal:**
 
@@ -56,7 +56,7 @@ R.
 
 ---
 
-## Atividade 4 — Lendo antes de preencher
+## Atividade 4 - Lendo antes de preencher
 
 **Saída obtida no terminal:**
 
@@ -74,7 +74,7 @@ R.
 
 ---
 
-## Atividade 5 — Lendo valores de mais de um objeto
+## Atividade 5 - Lendo valores de mais de um objeto
 
 **Saída obtida no terminal:**
 
@@ -92,7 +92,7 @@ R.
 
 ---
 
-## Atividade 6 — Explicação final
+## Atividade 6 - Explicação final
 
 **1. O que é "ler um atributo" em Java?**
 

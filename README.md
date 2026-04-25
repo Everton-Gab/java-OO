@@ -1,29 +1,29 @@
-# Exercícios Java — Orientação a Objetos (javaOO)
+# Exercícios Java - Orientação a Objetos (javaOO)
 
 Conjunto de exercícios para suporte e prática no aprendizado de **Java** e **Orientação a Objetos**.
 
 ## Estrutura
 
-### Nível 1 — Fundação (Classe, Objeto, Atributos)
+### Nível 1 - Fundação (Classe, Objeto, Atributos)
 
-- `Java_01_Classe/` — O que é uma classe (molde)
-- `Java_02_Objeto/` — O que é um objeto (instância)
-- `Java_03_New/` — Criar múltiplos objetos
-- `Java_04_Vazio/` — Valores padrão (defaults)
-- `Java_05_Preencher/` — Preenchendo atributos
-- `Java_06_Ler_Atributos/` — Lendo atributos
+- `Java_01_Classe/` - O que é uma classe (molde)
+- `Java_02_Objeto/` - O que é um objeto (instância)
+- `Java_03_New/` - Criar múltiplos objetos
+- `Java_04_Vazio/` - Valores padrão (defaults)
+- `Java_05_Preencher/` - Preenchendo atributos
+- `Java_06_Ler_Atributos/` - Lendo atributos
 
-### Nível 2 — Métodos e Construtores
+### Nível 2 - Métodos e Construtores
 
-- `Java_07_Construtores/` — Inicializar objetos no momento da criação
-- `Java_08_Metodos/` — Adicionar comportamento (ações) aos objetos
-- `Java_09_Encapsulamento/` — Proteger dados com `private` e `public`
+- `Java_07_Construtores/` - Inicializar objetos no momento da criação
+- `Java_08_Metodos/` - Adicionar comportamento (ações) aos objetos
+- `Java_09_Encapsulamento/` - Proteger dados com `private` e `public`
 
 Cada pasta geralmente possui:
 
-- `Aluno.java` — A classe
-- `Principal.java` — Arquivo executável (main) com exemplos
-- `README.md` — Objetivo e instruções e posteriormente edição com a resposta do aluno
+- `Aluno.java` - A classe
+- `Principal.java` - Arquivo executável (main) com exemplos
+- `README.md` - Objetivo e instruções e posteriormente edição com a resposta do aluno
 
 ## Roadmap de Aprendizado
 

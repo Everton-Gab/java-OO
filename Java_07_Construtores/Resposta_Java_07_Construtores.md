@@ -1,8 +1,8 @@
-# Respostas — Java 07 — Construtores
+# Respostas - Java 07 - Construtores
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 **Saída obtida no terminal:**
 
@@ -12,11 +12,11 @@
 
 ---
 
-## Atividade 2 — Entendendo construtores
+## Atividade 2 - Entendendo construtores
 
 ---
 
-## Atividade 3 — Comparando os jeitos
+## Atividade 3 - Comparando os jeitos
 
 | Jeito | Código | O que acontece | Construtor usado |
 |-------|--------|----------------|------------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## Atividade 4 — Entendendo `this`
+## Atividade 4 - Entendendo `this`
 
 **Identifique todas as ocorrências de `this` no `Aluno.java` e explique o que cada uma faz.**
 
@@ -35,7 +35,7 @@ R.
 
 ---
 
-## Atividade 5 — Perguntas
+## Atividade 5 - Perguntas
 
 **1. O que é um construtor?**
 
@@ -63,7 +63,7 @@ R.
 
 ---
 
-## Atividade 6 — Modificando o código
+## Atividade 6 - Modificando o código
 
 **Saída obtida no terminal:**
 
@@ -73,7 +73,7 @@ R.
 
 ---
 
-## Atividade 7 — Reflexão final
+## Atividade 7 - Reflexão final
 
 **1. Qual jeito você prefere: construtor vazio ou construtor com parâmetros? Por quê?**
 

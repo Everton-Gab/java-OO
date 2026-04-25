@@ -1,4 +1,4 @@
-# Java 04 — Objeto "vazio" e valores padrão
+# Java 04 - Objeto "vazio" e valores padrão
 
 ## Objetivo
 
@@ -9,9 +9,9 @@ Entender que, ao nascer, um objeto tem **valores padrão** nos atributos:
 
 ## Arquivos
 
-- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria um `Aluno` sem preencher nada e imprime os atributos.
-- `Resposta_Java_04_Vazio.md` — suas respostas para as atividades.
+- `Aluno.java` - a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` - cria um `Aluno` sem preencher nada e imprime os atributos.
+- `Resposta_Java_04_Vazio.md` - suas respostas para as atividades.
 
 ## Estrutura esperada ao final
 
@@ -36,7 +36,7 @@ java Java_04_Vazio.Principal
 
 ## Atividades
 
-### Atividade 1 — Rodando o programa
+### Atividade 1 - Rodando o programa
 
 **O que fazer:**
 
@@ -54,7 +54,7 @@ Copie e cole a saída do terminal.
 
 ---
 
-### Atividade 2 — Preenchendo os atributos
+### Atividade 2 - Preenchendo os atributos
 
 **O que fazer:**
 

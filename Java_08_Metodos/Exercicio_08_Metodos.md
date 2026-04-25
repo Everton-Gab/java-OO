@@ -1,4 +1,4 @@
-# Exercício 08 — Métodos
+# Exercício 08 - Métodos
 
 ## Objetivo
 
@@ -97,7 +97,7 @@ int resultado = aluno.multiplicarIdade(2);  // Passa 2, recebe 36 (se idade é 1
 
 ---
 
-## Atividade 1 — Execute e observe
+## Atividade 1 - Execute e observe
 
 1. Execute o `Principal.java` como está.
 2. Observe a saída e veja como cada método funciona.
@@ -105,7 +105,7 @@ int resultado = aluno.multiplicarIdade(2);  // Passa 2, recebe 36 (se idade é 1
 
 ---
 
-## Atividade 2 — Entendendo cada método
+## Atividade 2 - Entendendo cada método
 
 No arquivo `Aluno.java`, você tem:
 
@@ -120,7 +120,7 @@ No arquivo `Aluno.java`, você tem:
 
 ---
 
-## Atividade 3 — Comparando tipos
+## Atividade 3 - Comparando tipos
 
 Complete a tabela abaixo com um ✓ ou ✗:
 
@@ -133,7 +133,7 @@ Complete a tabela abaixo com um ✓ ou ✗:
 
 ---
 
-## Atividade 4 — Chamando métodos
+## Atividade 4 - Chamando métodos
 
 Na `Principal.java`, você vê exemplos como:
 
@@ -153,7 +153,7 @@ aluno1.nome;          // Acesso o atributo 'nome' do objeto 'aluno1'
 
 ---
 
-## Atividade 5 — Perguntas
+## Atividade 5 - Perguntas
 
 Responda:
 
@@ -174,7 +174,7 @@ Responda:
 
 ---
 
-## Atividade 6 — Modificando o código
+## Atividade 6 - Modificando o código
 
 Abra `Aluno.java` e **crie um novo método**:
 
@@ -197,7 +197,7 @@ Execute e veja o resultado!
 
 ---
 
-## Atividade 7 — Criando seu próprio método
+## Atividade 7 - Criando seu próprio método
 
 Crie um novo método na classe `Aluno` que:
 
@@ -210,7 +210,7 @@ Se conseguir, parabéns! Você já sabe criar métodos! 🎉
 
 ---
 
-## Atividade 8 — Reflexão final
+## Atividade 8 - Reflexão final
 
 Responda:
 

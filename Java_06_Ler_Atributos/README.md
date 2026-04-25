@@ -1,4 +1,4 @@
-# Java 06 — Ler atributos
+# Java 06 - Ler atributos
 
 ## Objetivo
 
@@ -6,9 +6,9 @@ Praticar a **leitura** de atributos de um objeto e entender a diferença entre p
 
 ## Arquivos
 
-- `Aluno.java` — a classe (molde), com atributos `nome` e `idade`.
-- `Principal.java` — cria objetos, preenche e lê os atributos.
-- `Resposta_Java_06_Ler_Atributos.md` — suas respostas para todas as atividades.
+- `Aluno.java` - a classe (molde), com atributos `nome` e `idade`.
+- `Principal.java` - cria objetos, preenche e lê os atributos.
+- `Resposta_Java_06_Ler_Atributos.md` - suas respostas para todas as atividades.
 
 ## Estrutura esperada ao final
 
@@ -31,7 +31,7 @@ java Java_06_Ler_Atributos.Principal
 
 ## Atividades
 
-### Atividade 1 — Executando o código base
+### Atividade 1 - Executando o código base
 
 **O que fazer:**
 
@@ -53,7 +53,7 @@ Maria
 
 ---
 
-### Atividade 2 — Alterando valores e lendo novamente
+### Atividade 2 - Alterando valores e lendo novamente
 
 **O que fazer:**
 
@@ -75,7 +75,7 @@ Execute novamente.
 
 ---
 
-### Atividade 3 — Lendo em forma de texto
+### Atividade 3 - Lendo em forma de texto
 
 **O que fazer:**
 
@@ -97,7 +97,7 @@ Execute novamente.
 
 ---
 
-### Atividade 4 — Lendo antes de preencher
+### Atividade 4 - Lendo antes de preencher
 
 **O que fazer:**
 
@@ -129,7 +129,7 @@ Execute novamente.
 
 ---
 
-### Atividade 5 — Lendo valores de mais de um objeto
+### Atividade 5 - Lendo valores de mais de um objeto
 
 **O que fazer:**
 
@@ -153,7 +153,7 @@ Execute novamente.
 
 ---
 
-### Atividade 6 — Explicação final
+### Atividade 6 - Explicação final
 
 1. O que é "ler um atributo" em Java?
 2. Qual a diferença entre preencher e ler?
