@@ -19,6 +19,12 @@ Conjunto de exercícios para suporte e prática no aprendizado de **Java** e **O
 - `Java_08_Metodos/` - Adicionar comportamento (ações) aos objetos
 - `Java_09_Encapsulamento/` - Proteger dados com `private` e `public`
 
+### Nível 3 - Modificadores, Estado e Relações
+
+- `Java_10_Modificadores/` - Modificadores de acesso (public, private, protected)
+- `Java_11_Estado_Objeto/` - Estado do objeto, Random, ciclo de vida e Garbage Collection
+- `Java_12_Relacoes/` - Associação, Agregação e Composição entre objetos
+
 Cada pasta geralmente possui:
 
 - `Aluno.java` - A classe
@@ -40,13 +46,16 @@ Siga nesta ordem para melhor aprendizado:
 | **07** | **Construtores** | **15 min** | 🆕 |
 | **08** | **Métodos** | **20 min** | 🆕 |
 | **09** | **Encapsulamento** | **20 min** | 🆕 |
+| **10** | **Modificadores de acesso** | **20 min** | 🆕 |
+| **11** | **Estado do objeto e GC** | **20 min** | 🆕 |
+| **12** | **Associação, Agregação, Composição** | **25 min** | 🆕 |
 
 **Próximas (sugestões):**
 
-- Exercício 10: Herança
-- Exercício 11: Polimorfismo
-- Exercício 12: Interfaces
-- Exercício 13: Classes Abstratas
+- Exercício 13: Herança
+- Exercício 14: Polimorfismo
+- Exercício 15: Interfaces
+- Exercício 16: Classes Abstratas
 
 ## Como executar no Windows (PowerShell / CMD)
 

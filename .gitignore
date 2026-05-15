@@ -14,12 +14,4 @@ out/
 Thumbs.db
 
 # gabaritos professor
-Java_01_Classe/Resposta_Java_01_Professor.md
-Java_02_Objeto/Resposta_Java_02_Objeto_Professor.md
-Java_03_New/Resposta_Java_03_New_Professor.md
-Java_04_Vazio/Resposta_Java_04_Vazio_Professor.md
-Java_05_Preencher/Resposta_Java_05_Preencher_Professor.md
-Java_06_Ler_Atributos/Resposta_Java_06_Ler_Atributos_Professor.md
-Java_07_Construtores/Resposta_Java_07_Construtores_Professor.md
-Java_08_Metodos/Resposta_Java_08_Metodos_Professor.md
-Java_09_Encapsulamento/Resposta_Java_09_Encapsulamento_Professor.md
+**/Resposta_*_Professor.md
