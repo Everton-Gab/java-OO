@@ -8,7 +8,7 @@ public class Principal {
 
         // Jeito 1: Construtor SEM parâmetros (vazio)
         // Depois preenchemos manualmente
-        System.out.println("--- Jeito 1: Construtor vazio (como nos exercícios anteriores) ---");
+        //System.out.println("--- Jeito 1: Construtor vazio (como nos exercícios anteriores) ---");
         Aluno aluno1 = new Aluno();
         System.out.println("Criado: aluno1 = new Aluno();");
         System.out.println("Nome: " + aluno1.nome);

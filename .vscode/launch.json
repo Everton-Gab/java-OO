@@ -5,6 +5,20 @@
             "type": "java",
             "name": "Principal",
             "request": "launch",
+            "mainClass": "Java_08_Metodos.Principal",
+            "projectName": "java-OO_52b65a"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Java_07_Construtores.Principal",
+            "projectName": "java-OO_52b65a"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
             "mainClass": "Java_02_Objeto.Principal",
             "projectName": "java-OO_ff60ada"
         },

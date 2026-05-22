@@ -6,7 +6,14 @@ Aqui estão as respostas teóricas prontas e a tabela estruturada para o seu exe
 
 ## Atividade 1 - Execute e observe
 
-**O que fazer:** *[Execute o arquivo Principal.java original e cole a saída do terminal aqui]*
+**O que fazer:** 
+Criado: aluno1 = new Aluno();
+Nome: null
+Idade: 0
+
+Depois de preencher:
+Nome: João Silva
+Idade: 18
 
 ---
 
@@ -15,10 +22,11 @@ Aqui estão as respostas teóricas prontas e a tabela estruturada para o seu exe
 ### Respostas:
 
 * **O que é um construtor?**
-R. Um construtor é um bloco de código especial da classe, muito parecido com um método, cujo objetivo principal é **inicializar o objeto** e preparar seus atributos com valores iniciais no momento em que ele nasce. Ele obrigatoriamente tem o mesmo nome da classe e não possui tipo de retorno.
+R. Um construtor é um bloco de código especial da classe, muito parecido com um método, cujo objetivo principal é **inicializar o objeto** e preparar seus atributos com valores iniciais no momento em que ele nasce. Ele obrigatoriamente tem o mesmo nome da classe e não possui tipo de retorno. 
 * **Quando ele é chamado automaticamente?**
 R. Ele é chamado automaticamente no exato momento em que usamos a palavra-chave new para criar uma nova instância daquela classe.
 
+ele chama automaticamente no exato momento que usamos a palavra-chave new para criar uma nova instancia daquela classe
 ---
 
 ## Atividade 3 - Comparando os jeitos
