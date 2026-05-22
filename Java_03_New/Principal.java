@@ -1,7 +1,4 @@
-package Exercicio03_New;
-
-import Exercicio01_Classe.Aluno;
-
+package Java_03_New;
 public class Principal {
 
     public static void main(String[] args) {

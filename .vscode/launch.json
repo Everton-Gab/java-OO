@@ -1,0 +1,53 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Java_02_Objeto.Principal",
+            "projectName": "java-OO_ff60ada"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Exercicio03_New.Principal",
+            "projectName": "java-OO_ff60ada"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Exercicio06_Ler_Atributos.Principal",
+            "projectName": "java-OO_ff60ada"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java_01_Classe.Main",
+            "projectName": "Java-OO_ba6e9195"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Java_02_Objeto.Principal",
+            "projectName": "Java-OO_ba6e9195"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Java_01_Classe.Principal",
+            "projectName": "Java-OO_ba6e9195"
+        },
+        {
+            "type": "java",
+            "name": "Executar arquivo Java atual (Principal)",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
