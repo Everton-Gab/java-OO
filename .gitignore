@@ -15,3 +15,10 @@ Thumbs.db
 
 # gabaritos professor
 **/Resposta_*_Professor.md
+
+# driver JDBC (baixado manualmente, ver README)
+lib/
+
+# arquivos de banco de dados H2 (gerados ao executar os exercicios de JDBC)
+*.mv.db
+*.trace.db
